@@ -1,0 +1,17 @@
+/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Business/bin/Debug/net5.0/DQuiz.Business.deps.json
+/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Business/bin/Debug/net5.0/DQuiz.Business.dll
+/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Business/bin/Debug/net5.0/ref/DQuiz.Business.dll
+/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Business/bin/Debug/net5.0/DQuiz.Business.pdb
+/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Business/bin/Debug/net5.0/DQuiz.Data.dll
+/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Business/bin/Debug/net5.0/DQuiz.Database.dll
+/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Business/bin/Debug/net5.0/DQuiz.Data.pdb
+/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Business/bin/Debug/net5.0/DQuiz.Database.pdb
+/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Business/obj/Debug/net5.0/DQuiz.Business.csproj.AssemblyReference.cache
+/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Business/obj/Debug/net5.0/DQuiz.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Business/obj/Debug/net5.0/DQuiz.Business.AssemblyInfoInputs.cache
+/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Business/obj/Debug/net5.0/DQuiz.Business.AssemblyInfo.cs
+/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Business/obj/Debug/net5.0/DQuiz.Business.csproj.CoreCompileInputs.cache
+/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Business/obj/Debug/net5.0/DQuiz.Business.csproj.CopyComplete
+/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Business/obj/Debug/net5.0/DQuiz.Business.dll
+/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Business/obj/Debug/net5.0/ref/DQuiz.Business.dll
+/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Business/obj/Debug/net5.0/DQuiz.Business.pdb

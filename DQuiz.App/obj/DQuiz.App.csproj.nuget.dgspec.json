@@ -1,0 +1,272 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/fethitekyaygil/Projects/DQuiz/DQuiz.App/DQuiz.App.csproj": {}
+  },
+  "projects": {
+    "/Users/fethitekyaygil/Projects/DQuiz/DQuiz.App/DQuiz.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fethitekyaygil/Projects/DQuiz/DQuiz.App/DQuiz.App.csproj",
+        "projectName": "DQuiz.App",
+        "projectPath": "/Users/fethitekyaygil/Projects/DQuiz/DQuiz.App/DQuiz.App.csproj",
+        "packagesPath": "/Users/fethitekyaygil/.nuget/packages/",
+        "outputPath": "/Users/fethitekyaygil/Projects/DQuiz/DQuiz.App/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/fethitekyaygil/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Business/DQuiz.Business.csproj": {
+                "projectPath": "/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Business/DQuiz.Business.csproj"
+              },
+              "/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Data/DQuiz.Data.csproj": {
+                "projectPath": "/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Data/DQuiz.Data.csproj"
+              },
+              "/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Database/DQuiz.Database.csproj": {
+                "projectPath": "/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Database/DQuiz.Database.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Business/DQuiz.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Business/DQuiz.Business.csproj",
+        "projectName": "DQuiz.Business",
+        "projectPath": "/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Business/DQuiz.Business.csproj",
+        "packagesPath": "/Users/fethitekyaygil/.nuget/packages/",
+        "outputPath": "/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/fethitekyaygil/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Data/DQuiz.Data.csproj": {
+                "projectPath": "/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Data/DQuiz.Data.csproj"
+              },
+              "/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Database/DQuiz.Database.csproj": {
+                "projectPath": "/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Database/DQuiz.Database.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Data/DQuiz.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Data/DQuiz.Data.csproj",
+        "projectName": "DQuiz.Data",
+        "projectPath": "/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Data/DQuiz.Data.csproj",
+        "packagesPath": "/Users/fethitekyaygil/.nuget/packages/",
+        "outputPath": "/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/fethitekyaygil/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Database/DQuiz.Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Database/DQuiz.Database.csproj",
+        "projectName": "DQuiz.Database",
+        "projectPath": "/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Database/DQuiz.Database.csproj",
+        "packagesPath": "/Users/fethitekyaygil/.nuget/packages/",
+        "outputPath": "/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Database/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/fethitekyaygil/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Data/DQuiz.Data.csproj": {
+                "projectPath": "/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Data/DQuiz.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

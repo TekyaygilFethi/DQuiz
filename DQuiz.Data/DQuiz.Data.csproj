@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="App\" />
+    <None Remove="POCO\" />
+    <None Remove="Base\" />
+    <None Remove="App\Admin\" />
+    <None Remove="App\Quiz\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App\" />
+    <Folder Include="POCO\" />
+    <Folder Include="Base\" />
+    <Folder Include="App\Admin\" />
+    <Folder Include="App\Quiz\" />
+  </ItemGroup>
+</Project>

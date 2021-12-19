@@ -1,0 +1,11 @@
+/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Data/bin/Debug/net5.0/DQuiz.Data.deps.json
+/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Data/bin/Debug/net5.0/DQuiz.Data.dll
+/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Data/bin/Debug/net5.0/ref/DQuiz.Data.dll
+/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Data/bin/Debug/net5.0/DQuiz.Data.pdb
+/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Data/obj/Debug/net5.0/DQuiz.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Data/obj/Debug/net5.0/DQuiz.Data.AssemblyInfoInputs.cache
+/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Data/obj/Debug/net5.0/DQuiz.Data.AssemblyInfo.cs
+/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Data/obj/Debug/net5.0/DQuiz.Data.csproj.CoreCompileInputs.cache
+/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Data/obj/Debug/net5.0/DQuiz.Data.dll
+/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Data/obj/Debug/net5.0/ref/DQuiz.Data.dll
+/Users/fethitekyaygil/Projects/DQuiz/DQuiz.Data/obj/Debug/net5.0/DQuiz.Data.pdb
